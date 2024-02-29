@@ -1,0 +1,6 @@
+Entites\User$UserRole.class
+controllers\AfficherBilletController$QRCodeGenerator.class
+controllers\CommentaireEmailController$1.class
+controllers\GetPasswordController.class
+controllers\AdminController.class
+controllers\CommentaireEmailController.class
